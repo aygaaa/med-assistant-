@@ -1,8 +1,9 @@
 ctransformers
 sentence-transformers
 pinecone-client==2.2.4
-langchain
-flask
+langchain==0.1.20
+langchain_community==0.0.38
+flask==3.02
 pypdf
 bitsandbytes 
 unstructured
